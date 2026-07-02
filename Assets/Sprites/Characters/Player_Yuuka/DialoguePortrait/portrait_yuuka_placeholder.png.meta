@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 7f66c535a80bf064a88b140978001acf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2528079443014487570
+    second: portrait_yuuka_placeholder_0
+  - first:
+      213: 2790099892894902519
+    second: portrait_yuuka_placeholder_1
+  - first:
+      213: 6742426766184179278
+    second: portrait_yuuka_placeholder_2
+  - first:
+      213: 1628538270906172700
+    second: portrait_yuuka_placeholder_3
+  - first:
+      213: -2994430187758081243
+    second: portrait_yuuka_placeholder_4
+  - first:
+      213: -1623578299375202731
+    second: portrait_yuuka_placeholder_5
+  - first:
+      213: -6347730517287828165
+    second: portrait_yuuka_placeholder_6
+  - first:
+      213: -2585403506511925675
+    second: portrait_yuuka_placeholder_7
+  - first:
+      213: 4433780023303706420
+    second: portrait_yuuka_placeholder_8
+  - first:
+      213: 1547314256293295151
+    second: portrait_yuuka_placeholder_9
+  - first:
+      213: -8072230499328986942
+    second: portrait_yuuka_placeholder_10
+  - first:
+      213: -2967217996418102845
+    second: portrait_yuuka_placeholder_11
+  - first:
+      213: -7547637340295178484
+    second: portrait_yuuka_placeholder_12
+  - first:
+      213: 2602142052411386169
+    second: portrait_yuuka_placeholder_13
+  - first:
+      213: -5976149468027978586
+    second: portrait_yuuka_placeholder_14
+  - first:
+      213: -8893857346743373230
+    second: portrait_yuuka_placeholder_15
+  - first:
+      213: -9108343517804144472
+    second: portrait_yuuka_placeholder_16
+  - first:
+      213: 756749685161836076
+    second: portrait_yuuka_placeholder_17
+  - first:
+      213: 3471502303096886747
+    second: portrait_yuuka_placeholder_18
+  - first:
+      213: -8241143189697133037
+    second: portrait_yuuka_placeholder_19
+  - first:
+      213: -5606075407419487677
+    second: portrait_yuuka_placeholder_20
+  - first:
+      213: -7376974169003707944
+    second: portrait_yuuka_placeholder_21
+  - first:
+      213: -1657614273627631398
+    second: portrait_yuuka_placeholder_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 451
+        width: 102
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1772314257aecd0800000000000000
+      internalID: -2528079443014487570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 408
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f82bdbe11d68b620800000000000000
+      internalID: 2790099892894902519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 441
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466e72cb69e19d50800000000000000
+      internalID: 6742426766184179278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 446
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15cd74ddeab99610800000000000000
+      internalID: 1628538270906172700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 413
+        width: 14
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b29f10c95a176d0800000000000000
+      internalID: -2994430187758081243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 353
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e45b88324e779e0800000000000000
+      internalID: -1623578299375202731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 420
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35072be9b458e7a0800000000000000
+      internalID: -6347730517287828165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 400
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eae49753dce1cd0800000000000000
+      internalID: -2585403506511925675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 372
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4379d35a073f78d30800000000000000
+      internalID: 4433780023303706420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 306
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24724a3e1a297510800000000000000
+      internalID: 1547314256293295151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 382
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0fb6e112da9ff80800000000000000
+      internalID: -8072230499328986942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 310
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c94a5804f252d6d0800000000000000
+      internalID: -2967217996418102845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 47
+        width: 99
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c075b3ef3d7614790800000000000000
+      internalID: -7547637340295178484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 246
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9392611f86aac1420800000000000000
+      internalID: 2602142052411386169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 294
+        width: 16
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac7d89c8b3701da0800000000000000
+      internalID: -5976149468027978586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 254
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252fc546ddba29480800000000000000
+      internalID: -8893857346743373230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 160
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a85d0124d9a89180800000000000000
+      internalID: -9108343517804144472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 206
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb5f744d3808a00800000000000000
+      internalID: 756749685161836076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 135
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd55a0da3f04d2030800000000000000
+      internalID: 3471502303096886747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 164
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31609f2bee391ad80800000000000000
+      internalID: -8241143189697133037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a45b48e183332b0800000000000000
+      internalID: -5606075407419487677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d13d430419bf9990800000000000000
+      internalID: -7376974169003707944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portrait_yuuka_placeholder_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0decdb998fef8e0800000000000000
+      internalID: -1657614273627631398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      portrait_yuuka_placeholder_0: -2528079443014487570
+      portrait_yuuka_placeholder_1: 2790099892894902519
+      portrait_yuuka_placeholder_10: -8072230499328986942
+      portrait_yuuka_placeholder_11: -2967217996418102845
+      portrait_yuuka_placeholder_12: -7547637340295178484
+      portrait_yuuka_placeholder_13: 2602142052411386169
+      portrait_yuuka_placeholder_14: -5976149468027978586
+      portrait_yuuka_placeholder_15: -8893857346743373230
+      portrait_yuuka_placeholder_16: -9108343517804144472
+      portrait_yuuka_placeholder_17: 756749685161836076
+      portrait_yuuka_placeholder_18: 3471502303096886747
+      portrait_yuuka_placeholder_19: -8241143189697133037
+      portrait_yuuka_placeholder_2: 6742426766184179278
+      portrait_yuuka_placeholder_20: -5606075407419487677
+      portrait_yuuka_placeholder_21: -7376974169003707944
+      portrait_yuuka_placeholder_22: -1657614273627631398
+      portrait_yuuka_placeholder_3: 1628538270906172700
+      portrait_yuuka_placeholder_4: -2994430187758081243
+      portrait_yuuka_placeholder_5: -1623578299375202731
+      portrait_yuuka_placeholder_6: -6347730517287828165
+      portrait_yuuka_placeholder_7: -2585403506511925675
+      portrait_yuuka_placeholder_8: 4433780023303706420
+      portrait_yuuka_placeholder_9: 1547314256293295151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

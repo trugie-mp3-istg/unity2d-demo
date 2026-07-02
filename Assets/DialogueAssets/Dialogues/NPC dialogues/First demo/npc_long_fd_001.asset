@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cacb7f125104e146b63bfbc832606a7, type: 3}
+  m_Name: npc_long_fd_001
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueManager_Dialogue
+  flags:
+  - needsFlag: []
+    setsFlag: npc_long_fd_001
+  lines:
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: And wouldn't you agree it's a fine day today, miss.
+  - actor: {fileID: 11400000, guid: 74fdfd4210cf0b1419bffe19a123d28b, type: 2}
+    text: Sorry, who are you?
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: A visitor, like you. And if it's no trouble, can I ask for a favor?
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: You see, I want to make a paper airplane, and I need a piece of paper.
+      Blank would be better, but any will do.
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: Please help out this poor guy.
+  options: []

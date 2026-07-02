@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ceae7e4df76d1e4ca79d0e323f57eec, type: 3}
+  m_Name: sc_deck_004
+  m_EditorClassIdentifier: Assembly-CSharp::SC_DeckInfo
+  scID: 4
+  scName: Overpowering Fragrance
+  scSprite: {fileID: -6615755879096831885, guid: e3a291dee61e55e469aeb06326cb9881, type: 3}
+  scPrefab: {fileID: 4504155356417727387, guid: e004df636726d7a4380e87ed6c30d82d, type: 3}
+  scElement: 1
+  scType: 0
+  scDesc: 'Shoots fast bullets in 8 directions 3 times, each dealing 0.5 HP damage.
+
+    (*)
+    Elemental Overload: Bullets deal more damage and gain Bouncing.'
+  scCommentary: This is getting ridiculous; these are literally just mint leaves.
+    What, no, I don't tend to self-criticize; this was from my lil' bro when I asked
+    him about my perfume long ago.

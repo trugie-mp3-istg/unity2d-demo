@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cacb7f125104e146b63bfbc832606a7, type: 3}
+  m_Name: npc_viktoriya_fd_002
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueManager_Dialogue
+  flags:
+  - needsFlag:
+    - npc_viktoriya_fd_001
+    setsFlag: 
+  lines:
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: Sigh... What even am I talking about.
+  options: []

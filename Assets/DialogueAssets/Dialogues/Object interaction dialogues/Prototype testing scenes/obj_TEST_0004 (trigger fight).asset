@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cacb7f125104e146b63bfbc832606a7, type: 3}
+  m_Name: obj_TEST_0004 (trigger fight)
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueManager_Dialogue
+  flags: []
+  lines:
+  - actor: {fileID: 11400000, guid: 3fdca5b809ab98b4cb4b149c41e383b1, type: 2}
+    text: test fight
+  options:
+  - optionText: Yeah
+    nextDialogue: {fileID: 11400000, guid: ddf370acaab704c43957bbdde8979aae, type: 2}
+  - optionText: no wait a min
+    nextDialogue: {fileID: 0}

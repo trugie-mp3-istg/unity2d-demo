@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ceae7e4df76d1e4ca79d0e323f57eec, type: 3}
+  m_Name: sc_deck_000
+  m_EditorClassIdentifier: Assembly-CSharp::SC_DeckInfo
+  scID: 0
+  scName: Empty Spellcard
+  scSprite: {fileID: 5633526604436139478, guid: c4662564ed3739945a93a2276e995ce0, type: 3}
+  scPrefab: {fileID: 1410463078997818361, guid: f3027b3f9e1556041aee4269458d6123, type: 3}
+  scElement: 0
+  scType: 0
+  scDesc: A base for concentrating magic.
+  scCommentary: 'There are many kinds of magic, some simple, some weird, some just
+    straight unexplicable. My magic is like... weaving essence. Extracting the nature
+    of things into more tangible forms.
+
+
+    I guess that''s why I got so many of
+    these from weaving emotions and memories, heh. How I do it, I''ve got no clue.'

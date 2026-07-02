@@ -1,0 +1,42 @@
+Spell Cards are categorized into Active and Passive Spell Cards.
+
+= Active: 
+	These Spell Cards are positioned in the bottom center of the HUD. 
+	They are essentially guns and weapons the player can actively select and use against enemies.
+	Active Spell Cards in the deck are randomly drawn in batch into hand at the start of combat phase, and individually every few seconds,
+provided there is still empty space in hand.
+
+= Passive:
+	These Spell Cards are positioned in the top left of the HUD, below the HP bar.
+	They serve as, like the name suggests, passive effects that require conditions to automatically activate.
+
+Spell Cards List:
+	- 1 ~ "Snowball":
+		* Active
+		* Element: Water
+		* Shoots a slow, huge, bullet-destroying orb at the nearest enemy, exploding and dealing 1 HP damage to all enemies in a moderate 
+AoE on contact, clearing all bullets caught in it.
+		(*) Elemental Overload: The orb becomes larger, lasts longer, and moves slower.
+
+	- 2 ~ "Snow Angel":
+		* Active
+		* Element: Wood
+		* Heals 0.25 HP.
+		(*) Elemental Overload: Heals 0.5 HP instead.
+
+	- 3 ~ "Icicle Machine Gun":
+		* Passive
+		* Element: Water
+		* Perpetually shoots 8 fast shards per sec at the nearest enemy within a moderate range, each dealing 0.04 HP damage.
+
+	- 4 ~ "Overpowering Fragrance":
+		* Active
+		* Element: Wood
+		* Shoots fast bullets in 8 directions 3 times, each dealing 0.5 HP damage.
+		(*) Elemental Overload: Bullets deal more damage and gain Bouncing.
+
+	- 5 ~ "Break of Dawn":
+		* Active
+		* Element: Fire
+		* Attacks in a fixed horizontal line across the nearest enemy in view, dealing 3 HP to all enemies caught.
+		(*) Elemental Overload: Adds an additional vertical line across said enemy.

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cacb7f125104e146b63bfbc832606a7, type: 3}
+  m_Name: npc_test_0001 (NPC_whateverman)
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueManager_Dialogue
+  flags:
+  - needsFlag: []
+    setsFlag: npc_test_0001
+  lines:
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: Wassup gang!
+  - actor: {fileID: 11400000, guid: 74fdfd4210cf0b1419bffe19a123d28b, type: 2}
+    text: "A c\xF3 ph\u1EA3i quang dave cnn"
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: "ch\u1ED1ng \u0111\u1EA9y tr\u1EDDi m\u01B0a 10 c\xE1i s\xE2n tr\u01B0\u1EDDng"
+  options:
+  - optionText: Ok
+    nextDialogue: {fileID: 11400000, guid: f4c232623ddca924a8d312ada03cf6be, type: 2}
+  - optionText: ko
+    nextDialogue: {fileID: 0}

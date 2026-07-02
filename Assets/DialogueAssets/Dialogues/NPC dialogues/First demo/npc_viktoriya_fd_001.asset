@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cacb7f125104e146b63bfbc832606a7, type: 3}
+  m_Name: npc_viktoriya_fd_001
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueManager_Dialogue
+  flags:
+  - needsFlag: []
+    setsFlag: npc_viktoriya_fd_001
+  lines:
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: I'm so stressed, y'know.
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: Like, I really could die right now.
+  - actor: {fileID: 11400000, guid: 74fdfd4210cf0b1419bffe19a123d28b, type: 2}
+    text: What's the prob, princess?
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: Do you ever, like, feel like everything... it never goes according to plan?
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: Like. I could mess up in the stupidest way possible,
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: and everyone will console me or say things like, "Don't worry," or "It's
+      not your fault,"
+  - actor: {fileID: 11400000, guid: bfae743adba83ed418226b2ccc427e7c, type: 2}
+    text: but I can't get rid of the guilt in me.
+  options: []
